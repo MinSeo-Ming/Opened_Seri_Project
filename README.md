@@ -6,6 +6,6 @@
 나중에 코드가 바뀌거나 업데이트 되면 수정될 가능성이 있습니다.
 
 domain환경은 http://mingminghyun.shop/ 으로 가면 확인 하실 수 있습니다.
-~~다만 한가지 이상한 건 localhost에선 유튜브가 잘 연결이 되는 데 이상하게 domain에서는 안된다...
+~~다만 한가지 이상한 건 localhost에선 유튜브가 잘 연결이 되는 데 이상하게 domain에서는 안된다...~~
 
 https://ming4224.tistory.com/7
